@@ -1,7 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif)
-
 <h1 align="center">Hi 👋, I'm Tanmay Nema</h1>
-<h3 align="center">Partly ML, Partly UI.</h3>
+<h3 align="center">Final Year Computer Science Engineering Undergrad.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
